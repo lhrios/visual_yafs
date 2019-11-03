@@ -27,7 +27,7 @@ import javafx.stage.Window;
 import visual.yafs.utils.FXUtils;
 
 public interface VisualYAFSConstants {
-	public static final String VISUAL_YAFS_VERSION = "2015_05_18";
+	public static final String VISUAL_YAFS_VERSION = "2019_11_03";
 
 	public static final String EXPECTED_YAFS_VERSION = "2015_07_27";
 
