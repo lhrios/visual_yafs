@@ -26,8 +26,7 @@ public class SystemUtils {
 	public static enum OperatingSystem {
 		//@formatter:off
 		WINDOWS,
-		LINUX,
-		MAC_OS_X
+		LINUX
 		//@formatter:on
 	}
 
